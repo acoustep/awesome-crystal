@@ -487,6 +487,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [stats](https://git.sceptique.eu/Sceptique/stats) - An expressive implementation of statistical distributions
 
 ## Search
+ * [fuzzy_match.cr](https://github.com/acoustep/fuzzy_match.cr) - FuzzyMatching implementation for Crystal
  * [hermes](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
  * [query-builder](https://github.com/izniburak/query-builder) - Sql Query Builder library
  * [query.cr](https://github.com/waterlink/query.cr) - Query abstraction
